@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date:** 12 October 2026  
+**Effective date:** October 2026  
 **Applies to:** Applications published by the Developer, to the extent the features described below are used in each application.
 
 ## 1. Scope
